@@ -1,0 +1,113 @@
+body{
+  font-family: "Montserrat";
+}
+
+
+/*section*/
+.colored-section{
+  background-color: #2978b5;
+  color: #fff;
+}
+
+.uncolored{
+  padding: 7% 15%;
+  background-color: #ffffff;
+  color: #005792;
+}
+
+.About{
+
+
+}
+
+.container-fluid{
+   padding: 3% 15%;
+}
+
+.navbar{
+  margin-bottom: 15px;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-right: 24rem;
+}
+
+.nav-item
+{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: lighter;
+  color: #fff;
+}
+
+/*image*/
+.title-image{
+  height: 40rem;
+  width: 35rem;
+}
+
+.big-heading{
+  font-size: 2rem;
+  text-align: center;
+  padding: 3rem 2rem;
+}
+
+/*section-heading*/
+.section-heading{
+  text-align: center;
+  color: #ff884b;
+  font-size: 2.5rem;
+
+}
+
+.about-image{
+  margin: 1% 25%;
+  width: 40rem;
+  height: 30rem;
+}
+
+.About-para{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/*card*/
+.album {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.card {
+  float: left;
+  width: 30%;
+  padding: 0.75rem;
+  margin-bottom: 2rem;
+  margin: 0.75rem;
+  border: 0;
+}
+
+.card > img {
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 85%;
+}
+
+.wrapper {
+    text-align: center;
+    padding-bottom:5rem;
+}
+
+
+.footer{
+  text-align:center;
+}
